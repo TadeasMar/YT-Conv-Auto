@@ -1,0 +1,21 @@
+[08/10/2026 10:52:27.79] [INIT] Script started 
+[08/10/2026 10:52:27.79] [INIT] Working dir: C:\YTConv\auto 
+[08/10/2026 10:52:27.80] [CHECK] All files found 
+[08/10/2026 10:52:27.80] [LOOP] ===== Starting channel loop ===== 
+ 
+[08/10/2026 10:52:27.80] [LOOP] ============================== 
+[08/10/2026 10:52:27.80] [LOOP] Channel #1: [https://www.youtube.com/@VortroxTwo/videos] 
+[08/10/2026 10:52:27.80] [LOOP] Starting yt-dlp download... 
+[generic] Extracting URL: en
+ERROR: [generic] 'en' is not a valid URL
+[youtube:tab] Extracting URL: https://www.youtube.com/@VortroxTwo/videos
+[youtube:tab] @VortroxTwo/videos: Downloading webpage
+[download] Downloading playlist: VortroxTwo - Videos
+[youtube:tab] Playlist VortroxTwo - Videos: Downloading 2 items
+[download] Downloading item 1 of 2
+[youtube] Extracting URL: https://www.youtube.com/watch?v=vbFH98hgIZA
+[youtube] vbFH98hgIZA: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] vbFH98hgIZA: Downloading visionos player API JSON
+[youtube] vbFH98hgIZA: Downloading m3u8 information
+^C
